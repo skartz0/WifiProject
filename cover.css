@@ -97,6 +97,9 @@ body {
   font-weight: 700;
 }
 
+.card{
+  min-height: 600px;
+}
 
 /*
  * Footer
