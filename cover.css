@@ -41,6 +41,26 @@ body {
 .cover-container {
   max-width: 42em;
 }
+section{
+  width: 100%;
+}
+section.hero{
+  margin-top: 60px;
+}
+
+section.hero iframe{
+  border-radius: 10px;
+}
+
+section.hero h2{
+  text-align: left;
+}
+
+.card {
+  min-height: auto !important;
+}
+
+
 
 
 /*
